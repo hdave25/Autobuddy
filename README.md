@@ -10,5 +10,7 @@ Users can book an service online in the service centres and can avail pickup and
 Screenshots : 
 
 ![Image - 1](/Media/image11.png)
+
 ![Image - 2](/Media/image12.png)
+
 ![Image - 3](/Media/image13.png)
